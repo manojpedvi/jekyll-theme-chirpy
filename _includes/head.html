@@ -52,7 +52,7 @@
   {%- unless page.layout == "home" -%}
     {{ page.title | append: " | "}}
   {%- endunless -%}
-    {{ site.title }}
+    {{ site.title_long }}
   </title>
 
   {% include favicons.html %}

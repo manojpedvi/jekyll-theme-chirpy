@@ -15,6 +15,8 @@ tabs:
   tags: Теги
   archives: Архив
   about: О сайте
+  newsletter: newsletter
+  privacy_policy: Privacy Policy
 
 # the text displayed in the search bar & search results
 search:
