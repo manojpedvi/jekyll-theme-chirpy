@@ -30,7 +30,8 @@ description: >-                        # used by seo meta and the atom feed
   A blog by Manoj Pedvi on programming & software development. Learn tips & tricks on mobile & web development & write quality code & apps
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://blog.10x-programming.com'
+//url: 'https://blog.10x-programming.com'
+url: 'https://10x-programming.com'
 
 github:
   username: manojpedvi             # change to your github username
